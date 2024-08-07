@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on : projects where i can improve myself and upskill every day
 - 📫 How to reach me :https://www.linkedin.com/in/charan-puvvada-b997b131b/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am Btech CSE core student from VIT chennai 
+- ⚡ Fun fact: I am Btech CSE core student from VIT chennai.
 
 <!---
 charan090806/charan090806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
