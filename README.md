@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charan090806
-- 👀 I’m interested in :AI,data analysis,
+- 👀 I’m interested in :AI,data analysis and exploring a lot of new domains.
 - 🌱 I’m currently learning :python
 - 💞️ I’m looking to collaborate on : projects where i can improve myself and upskill every day
 - 📫 How to reach me :https://www.linkedin.com/in/charan-puvvada-b997b131b/
